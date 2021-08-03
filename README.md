@@ -1,6 +1,6 @@
 ## PROJETO DESENVOLVIDO PARA KIFE ##
 
-A kife (www.kife.com.br) precisave de uma ferramenta que verificasse se os sites dos clientes estavam ON ou OFF.
+A kife (www.kife.com.br) precisava de uma ferramenta que verificasse se os sites dos clientes estavam ON ou OFF.
 
 Então desenvolvi essa ferramenta simples porém de muita ultilidade.
 
