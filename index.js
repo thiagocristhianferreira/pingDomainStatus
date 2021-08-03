@@ -11,9 +11,8 @@ const {
   reply,
   hostMail,
   portMail,
-} = process.env; 
-
-const PORT = 3000;
+  PORT,
+} = process.env;
 
 const app = express();
 
