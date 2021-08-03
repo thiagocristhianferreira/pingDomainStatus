@@ -2,6 +2,6 @@ apps:
   - name: ping-domain-status
     script: ./index.js
     exec_mode: cluster
-    instances: 2
+    instances: 1
     watch: false
     max_memory_restart: 200M
