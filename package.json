@@ -17,6 +17,10 @@
     "node-schedule": "^2.0.0",
     "nodemailer": "^6.6.3",
     "nodemon": "^2.0.12",
-    "ping": "^0.4.1"
+    "ping": "^0.4.1",
+    "pm2": "^5.1.0"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
   }
 }
